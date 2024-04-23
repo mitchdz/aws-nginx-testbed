@@ -1,0 +1,6 @@
+screen -t mitchdz-nginx-SUT mawstool ssh -n mitchdz-SUT
+screen -t mitchdz-nginx-DRV mawstool ssh -n mitchdz-DRV
+screen -t mitchdz-nginx-endpoint1 mawstool ssh -n mitchdz-endpoint1
+screen -t mitchdz-nginx-endpoint2 mawstool ssh -n mitchdz-endpoint2
+screen -t mitchdz-nginx-endpoint3 mawstool ssh -n mitchdz-endpoint3
+screen -t mitchdz-nginx-endpoint4 mawstool ssh -n mitchdz-endpoint4
